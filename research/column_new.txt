@@ -1,0 +1,9 @@
+num__trestbps
+num__thalach
+cat__sex
+cat__cp
+cat__exang
+cat__ca
+cat__thal
+poly__1
+poly__age oldpeak
